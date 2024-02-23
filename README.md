@@ -1,4 +1,4 @@
-#Random Messages
+# Random Messages
 
 This is a simple little project I did for the codecademy.com Full Stack Engineer career path.  Simply run the script, and it will generate a random silly sentence and print it to the console.
 
